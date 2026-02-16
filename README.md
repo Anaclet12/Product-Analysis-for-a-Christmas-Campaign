@@ -1,1 +1,1 @@
-# Defining-and-finding-best-performing-products-on-an-e-commerce-store
+# Data-Driven Product Selection Strategy for a Christmas e-commerce Campaign
