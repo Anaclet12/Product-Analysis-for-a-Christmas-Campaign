@@ -1,1 +1,1 @@
-# Products Analysis for a Christmas e-commerce Campaign
+# Data Driven Product Selection for a Christmas e-commerce Campaign
