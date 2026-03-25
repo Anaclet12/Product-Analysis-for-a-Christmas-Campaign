@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/26185188/README.md)
 # 🎄 Product Analysis for Christmas Campaign
 > *Identifying top-performing products to inform advertising strategy during peak sale periods*
 
