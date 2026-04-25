@@ -312,6 +312,10 @@ Products with zero November sales that surpassed 100 December units were likely 
 
 **6. Resolve Upstream Data Quality Issues**
 The `construction.tools.light` misclassification and the 1,245 products with inconsistent brand labels point to gaps in the product catalogue management process. Correcting these at the source will improve the accuracy of future analyses and reduce preparation overhead significantly.
+---
+
+## 🎥 Video Presentation:
+[![Watch on YouTube](https://img.shields.io/badge/Watch%20on-YouTube-red?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=Ht2w8tTeleg&t=92s)
 
 ---
 
